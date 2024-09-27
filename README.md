@@ -1,1 +1,1 @@
-# gui project - reference
+# gui project - references
